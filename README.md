@@ -33,7 +33,7 @@ Ask me about **Javascript , React , NextJS** - 📫 How to reach me
       alt="express"
       width="40"
       height="40"
-      color="white
+      color="white"
     />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
