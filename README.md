@@ -1,4 +1,4 @@
-# 💫 Hi, I am Siam 👋:
+# 💫 Hi, I am Siam 👋
 🔭 I’m currently working on frontend development.<br>🌱 I’m currently learning Nodejs, DSA and backend development.<br>💬 Ask me about frontend technologies.
 
 
